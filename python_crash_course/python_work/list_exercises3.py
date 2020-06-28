@@ -61,3 +61,5 @@ game_list.sort()
 
 print("And one last time alphabetically, this time using sort:")
 print(game_list)
+
+# intentionally tried to print game_list[3] to get an index error.
